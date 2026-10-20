@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Sahid! 👋
 
-<!--
-**strsahid/strsahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Regina, passionate about building efficient software and solving complex problems. 
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
+*   **Languages:** C++, Racket, Python (add any others you know)
+*   **Tools:** Git, Visual Studio (add your preferred IDEs/tools)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working On
+*   Deepening my knowledge of data structures and algorithms (CS 340).
+*   Building out my portfolio with academic and personal projects.
+
+## 📫 How to reach me
+*   **Email:** sahid345345@gmail.com
+  
